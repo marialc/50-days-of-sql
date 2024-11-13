@@ -1,0 +1,1 @@
+1. Show all the columns from the table admissions where the patient was admitted and discharged on the same day
