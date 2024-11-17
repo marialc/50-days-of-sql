@@ -1,0 +1,1 @@
+1. Show the average unit price rounded to 2 decimal places, the total units in stock, total discontinued products from the products table. The column names must be average_price, total_stock, total_discontinued
