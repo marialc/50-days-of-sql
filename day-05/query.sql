@@ -4,4 +4,4 @@ SELECT
     contact_name
 FROM customers
 WHERE city LIKE '%L%'
-ORDER BY contact_name ASC
+ORDER BY contact_name ASC;

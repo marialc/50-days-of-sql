@@ -4,4 +4,4 @@ SELECT
     height
 FROM patients
 ORDER BY height DESC
-LIMIT 1
+LIMIT 1;
