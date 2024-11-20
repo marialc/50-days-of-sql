@@ -1,0 +1,1 @@
+1. Show patient_id, diagnosis from admissions. Find patients admitted more than 1 times for the same diagnosis
