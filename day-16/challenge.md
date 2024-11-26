@@ -1,0 +1,1 @@
+1. Retrieve US customers' names and countries, ordered by first name
