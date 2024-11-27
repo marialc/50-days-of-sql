@@ -1,0 +1,1 @@
+1. Write a query to find list of patients first_name, last_name, and allergies from Hamilton where allergies are not null
