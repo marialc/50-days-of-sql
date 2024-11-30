@@ -1,0 +1,1 @@
+1. Display the number of duplicate patients based on their first_name and last_name. Make sure the column names are first_name, last_name, num_of_duplicates
