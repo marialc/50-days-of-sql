@@ -1,0 +1,1 @@
+1. Show the provinces that has more patients identified as 'M' than 'F'. Must only show full province_name. Make sure the column name is province_name
