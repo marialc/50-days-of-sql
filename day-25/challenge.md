@@ -1,0 +1,1 @@
+1. Show first name, last name and role of every person that is either patient or doctor. The roles are either "Patient" or "Doctor". Make sure to name this column as "role"
