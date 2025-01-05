@@ -1,0 +1,1 @@
+1. Show first_name, last_name, and the total number of admissions attended for each doctor. Make sure the name of the columns in output are: first_name, last_name, admissions_total. Every admission has been attended by a doctor
