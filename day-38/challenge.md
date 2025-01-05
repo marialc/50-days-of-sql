@@ -1,0 +1,1 @@
+1. Show all the contact_name, address, city of all customers which are not from Germany, Mexico, or Spain
