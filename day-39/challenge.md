@@ -1,0 +1,1 @@
+1. For each day, compute the total number of admissions. Additionally, calculate the difference in the number of admissions from the previous day
