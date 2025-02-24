@@ -1,0 +1,1 @@
+1. Show the patient_id and the total number of admissions for patient_id 579 with count column having the alias total_admissions
