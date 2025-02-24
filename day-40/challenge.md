@@ -1,0 +1,1 @@
+1. Show the city, company_name, contact_name from the customers and suppliers table merged together. Create a column named "relationship" which contains 'customers' or 'suppliers' depending on the table it came from
